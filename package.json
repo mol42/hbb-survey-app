@@ -1,0 +1,73 @@
+{
+  "name": "hbb-anketor",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node_modules/react-native/scripts/packager.sh",
+    "test": "jest"
+  },
+  "dependencies": {
+    "circular-json": "^0.4.0",
+    "circular-json-es6": "^2.0.1",
+    "clone": "^2.1.1",
+    "color": "^0.11.3",
+    "event-emitter-es6": "^1.1.5",
+    "install": "^0.10.1",
+    "lodash": "^4.13.1",
+    "moment": "^2.19.1",
+    "native-base": "^2.3.2",
+    "native-base-shoutem-theme": "^0.2.1",
+    "npm": "^5.4.2",
+    "react": "^16.0.0-alpha.12",
+    "react-dom": "^16.0.0",
+    "react-native": "^0.49.0",
+    "react-native-config": "^0.9.0",
+    "react-native-easy-grid": "^0.1.15",
+    "react-native-elements": "^0.17.0",
+    "react-native-modalbox": "^1.3.4",
+    "react-native-multiple-choice": "0.0.8",
+    "react-native-scrollable-tab-view": "^0.8.0",
+    "react-native-tab-view": "0.0.69",
+    "react-navigation": "1.0.0-beta.11",
+    "react-redux": "^5.0.2",
+    "redux": "^3.6.0",
+    "redux-form": "^6.7.0",
+    "redux-persist": "^4.0.0",
+    "redux-saga": "^0.16.0",
+    "redux-thunk": "^2.2.0",
+    "regenerator-runtime": "^0.11.0",
+    "remote-redux-devtools": "^0.5.0",
+    "shortid": "^2.2.8",
+    "whatwg-fetch": "^2.0.3"
+  },
+  "devDependencies": {
+    "babel-jest": "21.2.0",
+    "babel-preset-react-native": "4.0.0",
+    "enzyme": "^3.1.0",
+    "jest": "21.2.1",
+    "jest-serializer-enzyme": "^1.0.0",
+    "mockserver": "^1.6.2",
+    "react-addons-test-utils": "^15.6.2",
+    "react-test-renderer": "16.0.0-beta.5"
+  },
+  "jest": {
+    "preset": "react-native",
+    "modulePathIgnorePatterns": [
+      "/node_modules/.*/react-native/",
+      "/node_modules/.*/react/"
+    ],
+    "transformIgnorePatterns": [
+      "node_modules/(?!react-native|react-navigation|native-base-shoutem-theme|@shoutem/animation|@shoutem/ui|tcomb-form-native)"
+    ],
+    "haste": {
+      "defaultPlatform": "android",
+      "platforms": [
+        "android",
+        "ios"
+      ],
+      "providesModuleNodeModules": [
+        "react",
+        "react-native"
+      ]
+    }
+  }
+}

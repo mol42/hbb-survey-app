@@ -1,0 +1,1102 @@
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+
+{
+    "status": "ok",
+    "data": [
+        {
+            "surveyId": 1,
+            "name": "Sosyal Medya Tartışmaları",
+            "status": 1,
+            "user": {
+                "id": 1,
+                "name": "Tayfun",
+                "surname": "YÜĞRÜK",
+                "username": "tayfunyugruk",
+                "email": "",
+                "mobile": "",
+                "status": 1,
+                "role": {
+                    "id": 1,
+                    "type": 1,
+                    "name": "admin",
+                    "status": 1,
+                    "createDate": 1507999915000,
+                    "updateDate": 1507999915000
+                },
+                "createDate": 1507999919000,
+                "updateDate": 1507999919000
+            },
+            "questions": [
+                {
+                    "questionId": 3,
+                    "text": "Peki ya futbolun kralı?",
+                    "type": 2,
+                    "status": 1,
+                    "visible": true,
+                    "relationExist": false,
+                    "mandatory": false,
+                    "questionOrder": 9,
+                    "answers": [
+                        {
+                            "answerId": 5,
+                            "text": "Messi",
+                            "answerOrder": 0,
+                            "status": 1,
+                            "uid": "BkbaeTaAZ",
+                            "createDate": 1509966242000,
+                            "updateDate": 1509967637000
+                        },
+                        {
+                            "answerId": 6,
+                            "text": "Ronaldo",
+                            "answerOrder": 1,
+                            "status": 1,
+                            "uid": "rJE6laTRb",
+                            "createDate": 1509966242000,
+                            "updateDate": 1509967637000
+                        }
+                    ],
+                    "uid": "H1L2gaTCb",
+                    "createDate": 1509966242000,
+                    "updateDate": 1509967637000
+                },
+                {
+                    "questionId": 10,
+                    "text": "İstanbul mu Ankara mı?",
+                    "type": 2,
+                    "status": 1,
+                    "visible": true,
+                    "relationExist": false,
+                    "mandatory": false,
+                    "questionOrder": 5,
+                    "answers": [
+                        {
+                            "answerId": 23,
+                            "text": "Ankara",
+                            "answerOrder": 1,
+                            "status": 1,
+                            "uid": "r1hre6pRW",
+                            "createDate": 1509966242000,
+                            "updateDate": 1509967638000
+                        },
+                        {
+                            "answerId": 22,
+                            "text": "İstanbul",
+                            "answerOrder": 0,
+                            "status": 1,
+                            "uid": "S1KBeaT0Z",
+                            "createDate": 1509966242000,
+                            "updateDate": 1509967638000
+                        }
+                    ],
+                    "uid": "rJHBg6a0W",
+                    "createDate": 1509966242000,
+                    "updateDate": 1509967638000
+                },
+                {
+                    "questionId": 6,
+                    "text": "Peki Taksim gerçekten bitti mi? İstanbul'un hangi semti hala gözde?",
+                    "type": 2,
+                    "status": 1,
+                    "visible": true,
+                    "relationExist": false,
+                    "mandatory": false,
+                    "questionOrder": 6,
+                    "answers": [
+                        {
+                            "answerId": 14,
+                            "text": "Beşiktaş",
+                            "answerOrder": 2,
+                            "status": 1,
+                            "uid": "S1iDe66RZ",
+                            "createDate": 1509966242000,
+                            "updateDate": 1509967638000
+                        },
+                        {
+                            "answerId": 13,
+                            "text": "Kadıköy",
+                            "answerOrder": 1,
+                            "status": 1,
+                            "uid": "H1wDxaaA-",
+                            "createDate": 1509966242000,
+                            "updateDate": 1509967638000
+                        },
+                        {
+                            "answerId": 12,
+                            "text": "Taksim",
+                            "answerOrder": 0,
+                            "status": 1,
+                            "uid": "BkVDeapAZ",
+                            "createDate": 1509966242000,
+                            "updateDate": 1509967637000
+                        }
+                    ],
+                    "uid": "ByaIgp6AZ",
+                    "createDate": 1509966242000,
+                    "updateDate": 1509967638000
+                },
+                {
+                    "questionId": 5,
+                    "text": "Hangisi en kullanışlı sosyal medya platformu?",
+                    "type": 2,
+                    "status": 1,
+                    "visible": true,
+                    "relationExist": false,
+                    "mandatory": false,
+                    "questionOrder": 4,
+                    "answers": [
+                        {
+                            "answerId": 10,
+                            "text": "Facebook",
+                            "answerOrder": 1,
+                            "status": 1,
+                            "uid": "S1_me6TCW",
+                            "createDate": 1509966242000,
+                            "updateDate": 1509967637000
+                        },
+                        {
+                            "answerId": 9,
+                            "text": "Twitter",
+                            "answerOrder": 0,
+                            "status": 1,
+                            "uid": "r1mQgp6RZ",
+                            "createDate": 1509966242000,
+                            "updateDate": 1509967637000
+                        },
+                        {
+                            "answerId": 11,
+                            "text": "Instagram",
+                            "answerOrder": 2,
+                            "status": 1,
+                            "uid": "S1oQxT60-",
+                            "createDate": 1509966242000,
+                            "updateDate": 1509967637000
+                        }
+                    ],
+                    "uid": "r1Ozeaa0W",
+                    "createDate": 1509966242000,
+                    "updateDate": 1509967637000
+                },
+                {
+                    "questionId": 14,
+                    "text": "Başka bir tartışma konusu: Çay harareti alır mı?",
+                    "type": 2,
+                    "status": 1,
+                    "visible": true,
+                    "relationExist": false,
+                    "mandatory": false,
+                    "questionOrder": 11,
+                    "answers": [
+                        {
+                            "answerId": 34,
+                            "text": "Almaz",
+                            "answerOrder": 1,
+                            "status": 1,
+                            "uid": "ry2e-Tp0-",
+                            "createDate": 1509966242000,
+                            "updateDate": 1509967638000
+                        },
+                        {
+                            "answerId": 33,
+                            "text": "Alır",
+                            "answerOrder": 0,
+                            "status": 1,
+                            "uid": "HJDx-TTCb",
+                            "createDate": 1509966242000,
+                            "updateDate": 1509967638000
+                        }
+                    ],
+                    "uid": "ByQxW6p0-",
+                    "createDate": 1509966242000,
+                    "updateDate": 1509967638000
+                },
+                {
+                    "questionId": 7,
+                    "text": "Mizah denince bir numara?",
+                    "type": 2,
+                    "status": 1,
+                    "visible": true,
+                    "relationExist": false,
+                    "mandatory": false,
+                    "questionOrder": 10,
+                    "answers": [
+                        {
+                            "answerId": 16,
+                            "text": "Kemal Sunal",
+                            "answerOrder": 1,
+                            "status": 1,
+                            "uid": "Sk8Re6aCZ",
+                            "createDate": 1509966242000,
+                            "updateDate": 1509967638000
+                        },
+                        {
+                            "answerId": 15,
+                            "text": "Cem Yılmaz",
+                            "answerOrder": 0,
+                            "status": 1,
+                            "uid": "HkfAgTpAb",
+                            "createDate": 1509966242000,
+                            "updateDate": 1509967638000
+                        }
+                    ],
+                    "uid": "HycaxaT0-",
+                    "createDate": 1509966242000,
+                    "updateDate": 1509967638000
+                },
+                {
+                    "questionId": 8,
+                    "text": "Menemen nasıl yapılır?",
+                    "type": 2,
+                    "status": 1,
+                    "visible": true,
+                    "relationExist": false,
+                    "mandatory": false,
+                    "questionOrder": 0,
+                    "answers": [
+                        {
+                            "answerId": 17,
+                            "text": "Soğanlı",
+                            "answerOrder": 0,
+                            "status": 1,
+                            "uid": "r112yap0Z",
+                            "createDate": 1509966242000,
+                            "updateDate": 1509967638000
+                        },
+                        {
+                            "answerId": 18,
+                            "text": "Soğansız",
+                            "answerOrder": 1,
+                            "status": 1,
+                            "uid": "rJQ3JpTAW",
+                            "createDate": 1509966242000,
+                            "updateDate": 1509967638000
+                        }
+                    ],
+                    "uid": "rJkj1TTA-",
+                    "createDate": 1509966242000,
+                    "updateDate": 1509967638000
+                },
+                {
+                    "questionId": 2,
+                    "text": "Sevgiliyle tavuk döner yenilir mi?",
+                    "type": 2,
+                    "status": 1,
+                    "visible": true,
+                    "relationExist": false,
+                    "mandatory": false,
+                    "questionOrder": 8,
+                    "answers": [
+                        {
+                            "answerId": 3,
+                            "text": "Evet",
+                            "answerOrder": 0,
+                            "status": 1,
+                            "uid": "H1Yolpa0-",
+                            "createDate": 1509966242000,
+                            "updateDate": 1509967637000
+                        },
+                        {
+                            "answerId": 4,
+                            "text": "Hayır",
+                            "answerOrder": 1,
+                            "status": 1,
+                            "uid": "SyyngT6Cb",
+                            "createDate": 1509966242000,
+                            "updateDate": 1509967637000
+                        }
+                    ],
+                    "uid": "BkRKgTpRZ",
+                    "createDate": 1509966242000,
+                    "updateDate": 1509967637000
+                },
+                {
+                    "questionId": 9,
+                    "text": "Hangisi milli içeceğimiz?",
+                    "type": 2,
+                    "status": 1,
+                    "visible": true,
+                    "relationExist": false,
+                    "mandatory": false,
+                    "questionOrder": 12,
+                    "answers": [
+                        {
+                            "answerId": 21,
+                            "text": "Ayran",
+                            "answerOrder": 2,
+                            "status": 1,
+                            "uid": "ByMzZapA-",
+                            "createDate": 1509966242000,
+                            "updateDate": 1509967638000
+                        },
+                        {
+                            "answerId": 20,
+                            "text": "Çay",
+                            "answerOrder": 1,
+                            "status": 1,
+                            "uid": "HkCWbaT0Z",
+                            "createDate": 1509966242000,
+                            "updateDate": 1509967638000
+                        },
+                        {
+                            "answerId": 19,
+                            "text": "Rakı",
+                            "answerOrder": 0,
+                            "status": 1,
+                            "uid": "rJ5-WT6CW",
+                            "createDate": 1509966242000,
+                            "updateDate": 1509967638000
+                        }
+                    ],
+                    "uid": "HJlbb6pRW",
+                    "createDate": 1509966242000,
+                    "updateDate": 1509967638000
+                },
+                {
+                    "questionId": 12,
+                    "text": "Sayısalcılık mı Sözelcilik mi?",
+                    "type": 2,
+                    "status": 1,
+                    "visible": true,
+                    "relationExist": false,
+                    "mandatory": false,
+                    "questionOrder": 2,
+                    "answers": [
+                        {
+                            "answerId": 27,
+                            "text": "Eşit Ağırlıkçı",
+                            "answerOrder": 2,
+                            "status": 1,
+                            "uid": "BkollT6Cb",
+                            "createDate": 1509966242000,
+                            "updateDate": 1509967638000
+                        },
+                        {
+                            "answerId": 29,
+                            "text": "Sözelci",
+                            "answerOrder": 1,
+                            "status": 1,
+                            "uid": "ByPlxTpRb",
+                            "createDate": 1509966242000,
+                            "updateDate": 1509967638000
+                        },
+                        {
+                            "answerId": 28,
+                            "text": "Sayısalcı",
+                            "answerOrder": 0,
+                            "status": 1,
+                            "uid": "H1MxgTTRW",
+                            "createDate": 1509966242000,
+                            "updateDate": 1509967638000
+                        }
+                    ],
+                    "uid": "r1RAJaTC-",
+                    "createDate": 1509966242000,
+                    "updateDate": 1509967638000
+                },
+                {
+                    "questionId": 11,
+                    "text": "Hesabı kadın mı öder erkek mi?",
+                    "type": 2,
+                    "status": 1,
+                    "visible": true,
+                    "relationExist": false,
+                    "mandatory": false,
+                    "questionOrder": 7,
+                    "answers": [
+                        {
+                            "answerId": 26,
+                            "text": "Erkek",
+                            "answerOrder": 0,
+                            "status": 1,
+                            "uid": "B1Itg6p0b",
+                            "createDate": 1509966242000,
+                            "updateDate": 1509967638000
+                        },
+                        {
+                            "answerId": 25,
+                            "text": "Kadın",
+                            "answerOrder": 1,
+                            "status": 1,
+                            "uid": "Hk9Flaa0b",
+                            "createDate": 1509966242000,
+                            "updateDate": 1509967638000
+                        },
+                        {
+                            "answerId": 24,
+                            "text": "Farketmez",
+                            "answerOrder": 2,
+                            "status": 1,
+                            "uid": "HkiclaTAZ",
+                            "createDate": 1509966242000,
+                            "updateDate": 1509967638000
+                        }
+                    ],
+                    "uid": "H1r_xaTAW",
+                    "createDate": 1509966242000,
+                    "updateDate": 1509967638000
+                },
+                {
+                    "questionId": 13,
+                    "text": "Hangi mevsimde yaşamayı tercih edersin?",
+                    "type": 2,
+                    "status": 1,
+                    "visible": true,
+                    "relationExist": false,
+                    "mandatory": false,
+                    "questionOrder": 1,
+                    "answers": [
+                        {
+                            "answerId": 32,
+                            "text": "Yaz",
+                            "answerOrder": 0,
+                            "status": 1,
+                            "uid": "SJ_a1TT0Z",
+                            "createDate": 1509966242000,
+                            "updateDate": 1509967638000
+                        },
+                        {
+                            "answerId": 30,
+                            "text": "Kış",
+                            "answerOrder": 1,
+                            "status": 1,
+                            "uid": "Hka6yp6RZ",
+                            "createDate": 1509966242000,
+                            "updateDate": 1509967638000
+                        },
+                        {
+                            "answerId": 31,
+                            "text": "Bahar",
+                            "answerOrder": 2,
+                            "status": 1,
+                            "uid": "HJx01a6RW",
+                            "createDate": 1509966242000,
+                            "updateDate": 1509967638000
+                        }
+                    ],
+                    "uid": "HJkp1660b",
+                    "createDate": 1509966242000,
+                    "updateDate": 1509967638000
+                },
+                {
+                    "questionId": 1,
+                    "text": "Android mi IOS mu?",
+                    "type": 2,
+                    "status": 1,
+                    "visible": true,
+                    "relationExist": false,
+                    "mandatory": false,
+                    "questionOrder": 3,
+                    "answers": [
+                        {
+                            "answerId": 2,
+                            "text": "Android",
+                            "answerOrder": 0,
+                            "status": 1,
+                            "uid": "Sk0ZeTpCb",
+                            "createDate": 1509966242000,
+                            "updateDate": 1509967637000
+                        },
+                        {
+                            "answerId": 1,
+                            "text": "IOS",
+                            "answerOrder": 1,
+                            "status": 1,
+                            "uid": "B1-feTa0W",
+                            "createDate": 1509966242000,
+                            "updateDate": 1509967637000
+                        }
+                    ],
+                    "uid": "r1EbxaTRW",
+                    "createDate": 1509966242000,
+                    "updateDate": 1509967637000
+                },
+                {
+                    "questionId": 4,
+                    "text": "Pilav hangisiyle yenir?",
+                    "type": 2,
+                    "status": 1,
+                    "visible": true,
+                    "relationExist": false,
+                    "mandatory": false,
+                    "questionOrder": 13,
+                    "answers": [
+                        {
+                            "answerId": 7,
+                            "text": "Çatal",
+                            "answerOrder": 0,
+                            "status": 1,
+                            "uid": "HkLQbTaR-",
+                            "createDate": 1509966242000,
+                            "updateDate": 1509967637000
+                        },
+                        {
+                            "answerId": 8,
+                            "text": "Kaşık",
+                            "answerOrder": 1,
+                            "status": 1,
+                            "uid": "rkT7ZpaR-",
+                            "createDate": 1509966242000,
+                            "updateDate": 1509967637000
+                        }
+                    ],
+                    "uid": "SyzmbapR-",
+                    "createDate": 1509966242000,
+                    "updateDate": 1509967637000
+                }
+            ],
+            "relations": [],
+            "uid": "SytiWTa0Z",
+            "choiceOwnerSize": 4,
+            "createDate": 1509966242000,
+            "updateDate": 1510129161000
+        },
+        {
+            "surveyId": 3,
+            "name": "Sosyal Medya Tartışmaları (Copied)",
+            "status": 1,
+            "user": {
+                "id": 1,
+                "name": "Tayfun",
+                "surname": "YÜĞRÜK",
+                "username": "tayfunyugruk",
+                "email": "info@mol42.com",
+                "mobile": "",
+                "status": 1,
+                "role": {
+                    "id": 1,
+                    "type": 1,
+                    "name": "admin",
+                    "status": 1,
+                    "createDate": 1507999915000,
+                    "updateDate": 1507999915000
+                },
+                "createDate": 1507999919000,
+                "updateDate": 1507999919000
+            },
+            "questions": [
+                {
+                    "questionId": 35,
+                    "text": "İstanbul mu Ankara mı?",
+                    "type": 2,
+                    "status": 1,
+                    "visible": true,
+                    "relationExist": false,
+                    "mandatory": false,
+                    "questionOrder": 5,
+                    "answers": [
+                        {
+                            "answerId": 85,
+                            "text": "Ankara",
+                            "answerOrder": 1,
+                            "status": 1,
+                            "uid": "r1hre6pRW",
+                            "createDate": 1509968293000,
+                            "updateDate": 1509968293000
+                        },
+                        {
+                            "answerId": 86,
+                            "text": "İstanbul",
+                            "answerOrder": 0,
+                            "status": 1,
+                            "uid": "S1KBeaT0Z",
+                            "createDate": 1509968293000,
+                            "updateDate": 1509968293000
+                        }
+                    ],
+                    "uid": "rJHBg6a0W",
+                    "createDate": 1509968293000,
+                    "updateDate": 1509968293000
+                },
+                {
+                    "questionId": 40,
+                    "text": "Başka bir tartışma konusu: Çay harareti alır mı?",
+                    "type": 2,
+                    "status": 1,
+                    "visible": true,
+                    "relationExist": false,
+                    "mandatory": false,
+                    "questionOrder": 11,
+                    "answers": [
+                        {
+                            "answerId": 98,
+                            "text": "Alır",
+                            "answerOrder": 0,
+                            "status": 1,
+                            "uid": "HJDx-TTCb",
+                            "createDate": 1509968293000,
+                            "updateDate": 1509968293000
+                        },
+                        {
+                            "answerId": 97,
+                            "text": "Almaz",
+                            "answerOrder": 1,
+                            "status": 1,
+                            "uid": "ry2e-Tp0-",
+                            "createDate": 1509968293000,
+                            "updateDate": 1509968293000
+                        }
+                    ],
+                    "uid": "ByQxW6p0-",
+                    "createDate": 1509968293000,
+                    "updateDate": 1509968293000
+                },
+                {
+                    "questionId": 33,
+                    "text": "Hangisi milli içeceğimiz?",
+                    "type": 2,
+                    "status": 1,
+                    "visible": true,
+                    "relationExist": false,
+                    "mandatory": false,
+                    "questionOrder": 12,
+                    "answers": [
+                        {
+                            "answerId": 79,
+                            "text": "Ayran",
+                            "answerOrder": 2,
+                            "status": 1,
+                            "uid": "ByMzZapA-",
+                            "createDate": 1509968293000,
+                            "updateDate": 1509968293000
+                        },
+                        {
+                            "answerId": 81,
+                            "text": "Çay",
+                            "answerOrder": 1,
+                            "status": 1,
+                            "uid": "HkCWbaT0Z",
+                            "createDate": 1509968293000,
+                            "updateDate": 1509968293000
+                        },
+                        {
+                            "answerId": 80,
+                            "text": "Rakı",
+                            "answerOrder": 0,
+                            "status": 1,
+                            "uid": "rJ5-WT6CW",
+                            "createDate": 1509968293000,
+                            "updateDate": 1509968293000
+                        }
+                    ],
+                    "uid": "HJlbb6pRW",
+                    "createDate": 1509968293000,
+                    "updateDate": 1509968293000
+                },
+                {
+                    "questionId": 29,
+                    "text": "Peki ya futbolun kralı?",
+                    "type": 2,
+                    "status": 1,
+                    "visible": true,
+                    "relationExist": false,
+                    "mandatory": false,
+                    "questionOrder": 9,
+                    "answers": [
+                        {
+                            "answerId": 69,
+                            "text": "Messi",
+                            "answerOrder": 0,
+                            "status": 1,
+                            "uid": "BkbaeTaAZ",
+                            "createDate": 1509968293000,
+                            "updateDate": 1509968293000
+                        },
+                        {
+                            "answerId": 70,
+                            "text": "Ronaldo",
+                            "answerOrder": 1,
+                            "status": 1,
+                            "uid": "rJE6laTRb",
+                            "createDate": 1509968293000,
+                            "updateDate": 1509968293000
+                        }
+                    ],
+                    "uid": "H1L2gaTCb",
+                    "createDate": 1509968293000,
+                    "updateDate": 1509968293000
+                },
+                {
+                    "questionId": 36,
+                    "text": "Hesabı kadın mı öder erkek mi?",
+                    "type": 2,
+                    "status": 1,
+                    "visible": true,
+                    "relationExist": false,
+                    "mandatory": false,
+                    "questionOrder": 7,
+                    "answers": [
+                        {
+                            "answerId": 88,
+                            "text": "Erkek",
+                            "answerOrder": 0,
+                            "status": 1,
+                            "uid": "B1Itg6p0b",
+                            "createDate": 1509968293000,
+                            "updateDate": 1509968293000
+                        },
+                        {
+                            "answerId": 87,
+                            "text": "Kadın",
+                            "answerOrder": 1,
+                            "status": 1,
+                            "uid": "Hk9Flaa0b",
+                            "createDate": 1509968293000,
+                            "updateDate": 1509968293000
+                        },
+                        {
+                            "answerId": 89,
+                            "text": "Farketmez",
+                            "answerOrder": 2,
+                            "status": 1,
+                            "uid": "HkiclaTAZ",
+                            "createDate": 1509968293000,
+                            "updateDate": 1509968293000
+                        }
+                    ],
+                    "uid": "H1r_xaTAW",
+                    "createDate": 1509968293000,
+                    "updateDate": 1509968293000
+                },
+                {
+                    "questionId": 42,
+                    "text": "Menemen nasıl yapılır?",
+                    "type": 2,
+                    "status": 1,
+                    "visible": true,
+                    "relationExist": false,
+                    "mandatory": false,
+                    "questionOrder": 0,
+                    "answers": [
+                        {
+                            "answerId": 101,
+                            "text": "Soğansız",
+                            "answerOrder": 1,
+                            "status": 1,
+                            "uid": "rJQ3JpTAW",
+                            "createDate": 1509968293000,
+                            "updateDate": 1509968293000
+                        },
+                        {
+                            "answerId": 102,
+                            "text": "Soğanlı",
+                            "answerOrder": 0,
+                            "status": 1,
+                            "uid": "r112yap0Z",
+                            "createDate": 1509968293000,
+                            "updateDate": 1509968293000
+                        }
+                    ],
+                    "uid": "rJkj1TTA-",
+                    "createDate": 1509968293000,
+                    "updateDate": 1509968293000
+                },
+                {
+                    "questionId": 34,
+                    "text": "Hangisi en kullanışlı sosyal medya platformu?",
+                    "type": 2,
+                    "status": 1,
+                    "visible": true,
+                    "relationExist": false,
+                    "mandatory": false,
+                    "questionOrder": 4,
+                    "answers": [
+                        {
+                            "answerId": 82,
+                            "text": "Instagram",
+                            "answerOrder": 2,
+                            "status": 1,
+                            "uid": "S1oQxT60-",
+                            "createDate": 1509968293000,
+                            "updateDate": 1509968293000
+                        },
+                        {
+                            "answerId": 84,
+                            "text": "Twitter",
+                            "answerOrder": 0,
+                            "status": 1,
+                            "uid": "r1mQgp6RZ",
+                            "createDate": 1509968293000,
+                            "updateDate": 1509968293000
+                        },
+                        {
+                            "answerId": 83,
+                            "text": "Facebook",
+                            "answerOrder": 1,
+                            "status": 1,
+                            "uid": "S1_me6TCW",
+                            "createDate": 1509968293000,
+                            "updateDate": 1509968293000
+                        }
+                    ],
+                    "uid": "r1Ozeaa0W",
+                    "createDate": 1509968293000,
+                    "updateDate": 1509968293000
+                },
+                {
+                    "questionId": 38,
+                    "text": "Peki Taksim gerçekten bitti mi? İstanbul'un hangi semti hala gözde?",
+                    "type": 2,
+                    "status": 1,
+                    "visible": true,
+                    "relationExist": false,
+                    "mandatory": false,
+                    "questionOrder": 6,
+                    "answers": [
+                        {
+                            "answerId": 92,
+                            "text": "Kadıköy",
+                            "answerOrder": 1,
+                            "status": 1,
+                            "uid": "H1wDxaaA-",
+                            "createDate": 1509968293000,
+                            "updateDate": 1509968293000
+                        },
+                        {
+                            "answerId": 93,
+                            "text": "Beşiktaş",
+                            "answerOrder": 2,
+                            "status": 1,
+                            "uid": "S1iDe66RZ",
+                            "createDate": 1509968293000,
+                            "updateDate": 1509968293000
+                        },
+                        {
+                            "answerId": 94,
+                            "text": "Taksim",
+                            "answerOrder": 0,
+                            "status": 1,
+                            "uid": "BkVDeapAZ",
+                            "createDate": 1509968293000,
+                            "updateDate": 1509968293000
+                        }
+                    ],
+                    "uid": "ByaIgp6AZ",
+                    "createDate": 1509968293000,
+                    "updateDate": 1509968293000
+                },
+                {
+                    "questionId": 30,
+                    "text": "Pilav hangisiyle yenir?",
+                    "type": 2,
+                    "status": 1,
+                    "visible": true,
+                    "relationExist": false,
+                    "mandatory": false,
+                    "questionOrder": 13,
+                    "answers": [
+                        {
+                            "answerId": 72,
+                            "text": "Kaşık",
+                            "answerOrder": 1,
+                            "status": 1,
+                            "uid": "rkT7ZpaR-",
+                            "createDate": 1509968293000,
+                            "updateDate": 1509968293000
+                        },
+                        {
+                            "answerId": 71,
+                            "text": "Çatal",
+                            "answerOrder": 0,
+                            "status": 1,
+                            "uid": "HkLQbTaR-",
+                            "createDate": 1509968293000,
+                            "updateDate": 1509968293000
+                        }
+                    ],
+                    "uid": "SyzmbapR-",
+                    "createDate": 1509968293000,
+                    "updateDate": 1509968293000
+                },
+                {
+                    "questionId": 41,
+                    "text": "Mizah denince bir numara?",
+                    "type": 2,
+                    "status": 1,
+                    "visible": true,
+                    "relationExist": false,
+                    "mandatory": false,
+                    "questionOrder": 10,
+                    "answers": [
+                        {
+                            "answerId": 100,
+                            "text": "Cem Yılmaz",
+                            "answerOrder": 0,
+                            "status": 1,
+                            "uid": "HkfAgTpAb",
+                            "createDate": 1509968293000,
+                            "updateDate": 1509968293000
+                        },
+                        {
+                            "answerId": 99,
+                            "text": "Kemal Sunal",
+                            "answerOrder": 1,
+                            "status": 1,
+                            "uid": "Sk8Re6aCZ",
+                            "createDate": 1509968293000,
+                            "updateDate": 1509968293000
+                        }
+                    ],
+                    "uid": "HycaxaT0-",
+                    "createDate": 1509968293000,
+                    "updateDate": 1509968293000
+                },
+                {
+                    "questionId": 32,
+                    "text": "Sayısalcılık mı Sözelcilik mi?",
+                    "type": 2,
+                    "status": 1,
+                    "visible": true,
+                    "relationExist": false,
+                    "mandatory": false,
+                    "questionOrder": 2,
+                    "answers": [
+                        {
+                            "answerId": 78,
+                            "text": "Eşit Ağırlıkçı",
+                            "answerOrder": 2,
+                            "status": 1,
+                            "uid": "BkollT6Cb",
+                            "createDate": 1509968293000,
+                            "updateDate": 1509968293000
+                        },
+                        {
+                            "answerId": 76,
+                            "text": "Sözelci",
+                            "answerOrder": 1,
+                            "status": 1,
+                            "uid": "ByPlxTpRb",
+                            "createDate": 1509968293000,
+                            "updateDate": 1509968293000
+                        },
+                        {
+                            "answerId": 77,
+                            "text": "Sayısalcı",
+                            "answerOrder": 0,
+                            "status": 1,
+                            "uid": "H1MxgTTRW",
+                            "createDate": 1509968293000,
+                            "updateDate": 1509968293000
+                        }
+                    ],
+                    "uid": "r1RAJaTC-",
+                    "createDate": 1509968293000,
+                    "updateDate": 1509968293000
+                },
+                {
+                    "questionId": 31,
+                    "text": "Hangi mevsimde yaşamayı tercih edersin?",
+                    "type": 2,
+                    "status": 1,
+                    "visible": true,
+                    "relationExist": false,
+                    "mandatory": false,
+                    "questionOrder": 1,
+                    "answers": [
+                        {
+                            "answerId": 75,
+                            "text": "Bahar",
+                            "answerOrder": 2,
+                            "status": 1,
+                            "uid": "HJx01a6RW",
+                            "createDate": 1509968293000,
+                            "updateDate": 1509968293000
+                        },
+                        {
+                            "answerId": 73,
+                            "text": "Kış",
+                            "answerOrder": 1,
+                            "status": 1,
+                            "uid": "Hka6yp6RZ",
+                            "createDate": 1509968293000,
+                            "updateDate": 1509968293000
+                        },
+                        {
+                            "answerId": 74,
+                            "text": "Yaz",
+                            "answerOrder": 0,
+                            "status": 1,
+                            "uid": "SJ_a1TT0Z",
+                            "createDate": 1509968293000,
+                            "updateDate": 1509968293000
+                        }
+                    ],
+                    "uid": "HJkp1660b",
+                    "createDate": 1509968293000,
+                    "updateDate": 1509968293000
+                },
+                {
+                    "questionId": 39,
+                    "text": "Sevgiliyle tavuk döner yenilir mi?",
+                    "type": 2,
+                    "status": 1,
+                    "visible": true,
+                    "relationExist": false,
+                    "mandatory": false,
+                    "questionOrder": 8,
+                    "answers": [
+                        {
+                            "answerId": 96,
+                            "text": "Evet",
+                            "answerOrder": 0,
+                            "status": 1,
+                            "uid": "H1Yolpa0-",
+                            "createDate": 1509968293000,
+                            "updateDate": 1509968293000
+                        },
+                        {
+                            "answerId": 95,
+                            "text": "Hayır",
+                            "answerOrder": 1,
+                            "status": 1,
+                            "uid": "SyyngT6Cb",
+                            "createDate": 1509968293000,
+                            "updateDate": 1509968293000
+                        }
+                    ],
+                    "uid": "BkRKgTpRZ",
+                    "createDate": 1509968293000,
+                    "updateDate": 1509968293000
+                },
+                {
+                    "questionId": 37,
+                    "text": "Android mi IOS mu?",
+                    "type": 2,
+                    "status": 1,
+                    "visible": true,
+                    "relationExist": false,
+                    "mandatory": false,
+                    "questionOrder": 3,
+                    "answers": [
+                        {
+                            "answerId": 91,
+                            "text": "IOS",
+                            "answerOrder": 1,
+                            "status": 1,
+                            "uid": "B1-feTa0W",
+                            "createDate": 1509968293000,
+                            "updateDate": 1509968293000
+                        },
+                        {
+                            "answerId": 90,
+                            "text": "Android",
+                            "answerOrder": 0,
+                            "status": 1,
+                            "uid": "Sk0ZeTpCb",
+                            "createDate": 1509968293000,
+                            "updateDate": 1509968293000
+                        }
+                    ],
+                    "uid": "r1EbxaTRW",
+                    "createDate": 1509968293000,
+                    "updateDate": 1509968293000
+                }
+            ],
+            "relations": [],
+            "uid": "r16sYTaC-",
+            "choiceOwnerSize": 0,
+            "createDate": 1509968293000,
+            "updateDate": 1509968293000
+        }
+    ]
+}

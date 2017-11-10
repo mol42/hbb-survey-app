@@ -1,0 +1,30 @@
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+
+{
+    "status": "ok",
+    "data": {
+        "description": "Successful login!",
+        "user": {
+            "id": 1,
+            "name": "Tayfun",
+            "surname": "YÜĞRÜK",
+            "username": "tayfunyugruk",
+            "email": "",
+            "mobile": "",
+            "status": 1,
+            "role": {
+                "id": 1,
+                "type": 1,
+                "name": "admin",
+                "status": 1,
+                "createDate": 1507999915000,
+                "updateDate": 1507999915000
+            },
+            "createDate": 1507999919000,
+            "updateDate": 1507999919000
+        },
+        "result": true,
+        "xAuthToken": "5ba83ed2-063d-405a-a55d-e96480d2f6ed"
+    }
+}

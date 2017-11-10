@@ -1,0 +1,513 @@
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+
+{
+    "status": "ok",
+    "data": [
+        {
+            "neighbourhoodId": 1047,
+            "name": "DERVISLI MEVKI",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 1097,
+            "name": "KIRAC ARAZI",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 1098,
+            "name": "TABAN ARAZI",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 1099,
+            "name": "SULAK ARAZI",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 1165,
+            "name": "ÇAYIR KÖYÜ",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 1188,
+            "name": "YAYLACIK KÖYÜ",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29751,
+            "name": "AÇIKDERE",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29752,
+            "name": "AKASYA",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29753,
+            "name": "AKCURUN",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29754,
+            "name": "AKÇAOVA",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29755,
+            "name": "AKEVLER",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29756,
+            "name": "AKHİSAR",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29757,
+            "name": "AKSARAY",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29758,
+            "name": "ALAATTİN",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29759,
+            "name": "ALAHAN",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29760,
+            "name": "ALAZI",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29761,
+            "name": "ALTINÇAY",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29762,
+            "name": "ANAYAZI",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29763,
+            "name": "APAYDIN",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29764,
+            "name": "ARPAHAN",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29765,
+            "name": "AŞAĞIOBA",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29766,
+            "name": "AVSUYU",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29767,
+            "name": "AYDINLIKEVLER",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29768,
+            "name": "BAĞRIYANIK",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29769,
+            "name": "BARBAROS",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29770,
+            "name": "BİNİCİLER",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29771,
+            "name": "BİTİREN",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29772,
+            "name": "BOHŞİN",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29773,
+            "name": "BOZHÖYÜK",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29774,
+            "name": "BÜYÜKDALYAN",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29775,
+            "name": "CEBRAİL",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29776,
+            "name": "CUMHURİYET",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29777,
+            "name": "DEMİRKÖPRÜ",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29778,
+            "name": "DERİNCE",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29779,
+            "name": "DİKMECE",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29780,
+            "name": "DOĞANKÖY",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29781,
+            "name": "DUTDİBİ",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29782,
+            "name": "EKİNCİ",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29783,
+            "name": "EMEK",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29784,
+            "name": "ESENLİK",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29785,
+            "name": "ESENTEPE",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29786,
+            "name": "FEVZİ ÇAKMAK",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29787,
+            "name": "GAZİ",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29788,
+            "name": "GAZİ PAŞA",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29789,
+            "name": "GENERAL ŞÜKRÜ KANATLI",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29790,
+            "name": "GÖKÇEGÖZ",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29791,
+            "name": "GÜLDEREN",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29792,
+            "name": "GÜLLÜ BAHÇE",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29793,
+            "name": "GÜNYAZI",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29794,
+            "name": "GÜZELBURÇ",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29795,
+            "name": "HABİB-İ NECCAR",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29796,
+            "name": "HACI ÖMER ALPAGOT",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29797,
+            "name": "HARAPARASI",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29798,
+            "name": "HASANLI",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29799,
+            "name": "HAVUZLAR",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29800,
+            "name": "İPLİK PAZARI",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29801,
+            "name": "KANTARA",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29802,
+            "name": "KARAALİ",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29803,
+            "name": "KARAALİ BÖLÜĞÜ",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29804,
+            "name": "KARDEŞLER",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29805,
+            "name": "KARLISU",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29806,
+            "name": "KIŞLA SARAY",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29807,
+            "name": "KİSECİK",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29808,
+            "name": "KOCAABDİ",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29809,
+            "name": "KURUYER",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29810,
+            "name": "KUYULU",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29811,
+            "name": "KUZEYTEPE",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29812,
+            "name": "KÜÇÜKDALYAN",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29813,
+            "name": "MADENBOYU",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29814,
+            "name": "MANSURLU",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29815,
+            "name": "MARAŞBOĞAZI",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29816,
+            "name": "MAŞUKLU",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29817,
+            "name": "MELEKLİ",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29818,
+            "name": "MEYDAN",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29819,
+            "name": "NARLICA",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29820,
+            "name": "ODABAŞI",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29821,
+            "name": "OĞLAKÖREN",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29822,
+            "name": "ORHANLI",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29823,
+            "name": "OVAKENT",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29824,
+            "name": "PAŞAKÖY",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29825,
+            "name": "SAÇAKLI",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29826,
+            "name": "SARAYCIK",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29827,
+            "name": "SARAYKENT",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29828,
+            "name": "SERİNYOL",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29829,
+            "name": "SOFULAR",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29830,
+            "name": "SUVATLI",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29831,
+            "name": "ŞEHİTLER",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29832,
+            "name": "ŞEYHALİ",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29833,
+            "name": "ŞİRİNCE",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29834,
+            "name": "TAHTAKÖPRÜ",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29835,
+            "name": "TANIŞMA",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29836,
+            "name": "ULUCAMİİ",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29837,
+            "name": "UZUNALİÇ",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29838,
+            "name": "ÜÇGEDİK",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29839,
+            "name": "ÜRGEN PAŞA",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29840,
+            "name": "ÜZÜMDALI",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29841,
+            "name": "YAYLACIK",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29842,
+            "name": "YENİ CAMİİ",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29843,
+            "name": "YEŞİLOVA",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29844,
+            "name": "ZENGİNLER",
+            "status": 1
+        },
+        {
+            "neighbourhoodId": 29845,
+            "name": "ZÜLÜFLÜHAN",
+            "status": 1
+        }
+    ]
+}

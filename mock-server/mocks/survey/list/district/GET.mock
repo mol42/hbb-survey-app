@@ -1,0 +1,83 @@
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+
+{
+    "status": "ok",
+    "data": [
+        {
+            "districtId": 1,
+            "name": "ANTAKYA",
+            "status": 1
+        },
+        {
+            "districtId": 2,
+            "name": "İSKENDERUN",
+            "status": 1
+        },
+        {
+            "districtId": 3,
+            "name": "DEFNE",
+            "status": 1
+        },
+        {
+            "districtId": 4,
+            "name": "DÖRTYOL",
+            "status": 1
+        },
+        {
+            "districtId": 5,
+            "name": "SAMANDAĞ",
+            "status": 1
+        },
+        {
+            "districtId": 6,
+            "name": "KIRIKHAN",
+            "status": 1
+        },
+        {
+            "districtId": 7,
+            "name": "REYHANLI",
+            "status": 1
+        },
+        {
+            "districtId": 8,
+            "name": "ARSUZ",
+            "status": 1
+        },
+        {
+            "districtId": 9,
+            "name": "ALTINÖZÜ",
+            "status": 1
+        },
+        {
+            "districtId": 10,
+            "name": "HASSA",
+            "status": 1
+        },
+        {
+            "districtId": 11,
+            "name": "ERZİN",
+            "status": 1
+        },
+        {
+            "districtId": 12,
+            "name": "PAYAS",
+            "status": 1
+        },
+        {
+            "districtId": 13,
+            "name": "BELEN",
+            "status": 1
+        },
+        {
+            "districtId": 14,
+            "name": "YAYLADAĞI",
+            "status": 1
+        },
+        {
+            "districtId": 15,
+            "name": "KUMLU",
+            "status": 1
+        }
+    ]
+}
