@@ -46,7 +46,7 @@ export default class ChoiceOwnerForm extends PureComponent {
             </CardItem>
             <CardItem style={styles.cardItem}>
                 <Picker
-                    style={{flex: 1}}
+                    style={{width: "100%", height: 44}} itemStyle={{height: 44}}
                     selectedValue={this.props.districtId}
                     onValueChange={(itemValue, itemIndex) => this.props.onDistrictChange(itemValue)}>
                     <Picker.Item label="İlçeyi Seçiniz" value={-1} key={"distrcit_00"} />
@@ -57,7 +57,7 @@ export default class ChoiceOwnerForm extends PureComponent {
             </CardItem>
             <CardItem style={styles.cardItem}>
                 <Picker
-                    style={{flex: 1}}
+                    style={{width: "100%", height: 44}} itemStyle={{height: 44}}
                     selectedValue={this.props.neighbourhoodId}
                     onValueChange={(itemValue, itemIndex) => this.props.onNeighbourHoodChange(itemValue)}>
                     <Picker.Item label="Mahalleyi Seçiniz" value={-1} key={"neighbourHood_00"} />
