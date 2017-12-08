@@ -6,7 +6,6 @@
     "test": "jest"
   },
   "dependencies": {
-    "circular-json": "^0.4.0",
     "circular-json-es6": "^2.0.1",
     "clone": "^2.1.1",
     "moment": "^2.19.1",
