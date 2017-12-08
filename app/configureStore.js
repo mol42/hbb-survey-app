@@ -11,7 +11,7 @@ export default function configureStore():any {
   const enhancer = compose(
     applyMiddleware(sagaMiddleware),
     devTools({
-      name: 'nativestarterkit', realtime: true,
+      name: 'surveyapp', realtime: true,
     }),
   );
 
