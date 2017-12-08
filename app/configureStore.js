@@ -1,6 +1,5 @@
 import devTools from 'remote-redux-devtools';
 import { createStore, applyMiddleware, compose } from 'redux';
-import { persistStore } from 'redux-persist';
 import reducer from './redux/reducers';
 
 import createSagaMiddleware from 'redux-saga'

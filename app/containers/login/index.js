@@ -13,7 +13,6 @@ import {
   Form
 } from "native-base";
 import { CustomText } from "../../components/CustomText";
-import { Field, reduxForm } from "redux-form";
 import { doLogin, informAppInitialized } from "../../redux/actions/auth";
 import styles from "./styles";
 
