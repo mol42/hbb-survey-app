@@ -1,4 +1,5 @@
 {
   "name": "HBBAnketor",
-  "displayName": "HBB Anketor"
+  "displayName": "HBB Anketor",
+  "test": "value"
 }
